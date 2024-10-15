@@ -18,7 +18,7 @@ test("custom response", async () => {
 
     const res = await fetchExample();
     expect(await res.json()).toEqual(result);
-});
+})
 
 test("request data length", async () => {
 
