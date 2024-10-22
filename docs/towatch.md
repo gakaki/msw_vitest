@@ -4,7 +4,14 @@
 你想开发语言虚拟机吗? -- 教程
 https://rustcc.cn/article?id=d3d24b8c-f15b-4732-b2b0-15398f5ed147
 
-
+How to preprocess Cypress tests with Vite
+https://adamlynch.com/preprocess-cypress-tests-with-vite/
+cypress vite
+Supercharge your Cypress E2E tests using Vite
+https://medium.com/@mammadataei/supercharge-your-cypress-e2e-tests-using-vite-9b2950b05f2
+https://github.com/cypress-io/cypress-realworld-app/blob/develop/vite.config.ts
+https://www.youtube.com/watch?v=Jrr9sfvk_vg
+https://www.npmjs.com/package/@cypress/vite-dev-server
 rust bundler
 https://github.com/farm-fe/performance-compare
 https://www.bilibili.com/video/BV1q1421b7YR/?spm_id_from=333.999.0.0&vd_source=c6697a063eaf5e2d3acbeb85caac9e07
