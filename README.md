@@ -1,3 +1,29 @@
+### sd3.5
+
+IT之家 10 月 23 日消息，Stability AI 公司昨日（10 月 22 日）发布博文，宣布推出 Stable Diffusion 3.5，这标志着开源 AI 文生图模型的重大进步。
+
+开源文生图 AI 重磅选手上新：Stable Diffusion 3.5 最强全家桶登场、消费级硬件上“开箱即用”
+
+Stable Diffusion 3.5 共有 Medium（10 月 29 日发布）、Large 和 Large Turbo 三种规模版本，旨在满足科学研究人员、爱好者、初创公司和企业的不同需求，IT之家附上相关介绍如下：
+
+Stable Diffusion 3.5 Large：共有 80 亿个参数，具有卓越的质量和快速响应，是 Stable Diffusion 家族中最强大的模型，非常适合 100 万像素分辨率的专业应用场景。
+
+Stable Diffusion 3.5 Large Turbo：是 Large 的精简版，在出色地遵循提示词上，仅需 4 个步骤内生成高质量图像，且生成速度明显快于 Large。
+
+Stable Diffusion 3.5 Medium（将于 10 月 29 日发布）：该模型拥有 25 亿个参数，采用改进的 MMDiT-X 架构和训练方法，旨在能够在消费级硬件上“开箱即用”，平衡质量和易于定制，能够生成分辨率在 25 万到 200 万像素之间的照片。
+
+Stability AI 表示本次发布没有完全达到我们的标准或我们社区的期望，后续将继续打磨开发了一个更稳健的解决方案。
+
+开源文生图 AI 重磅选手上新：Stable Diffusion 3.5 最强全家桶登场、消费级硬件上“开箱即用”
+
+Stability AI 为此次发布实施了一项相当宽松的社区许可，这些模型可供非商业用途免费使用，并且对年收入低于 100 万美元的企业开放，超过此门槛的企业必须获得单独的许可安排。
+
+## 8195
+高通骁龙座舱、骁龙Ride至尊版平台发布：CPU提升3倍、NPU提升12倍
+注意了8125 8155也淘汰了
+
+
+
 pnpm add -D vitest @vitest/browser playwright
 
 撒丁岛自动驾驶 yolo 传统规划算法
